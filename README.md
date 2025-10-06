@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Sofía Cristina Durán Muñoz \[22211752]; l22211752@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -38,12 +38,12 @@ En esta práctica se presenta un circuito RLC de segundo orden, el sistema es es
 Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
-1. Cuaderno computacional de MATLAB [.mlx].
-2. Modelo de Simulink [.slx].
-3. Archivos de Spyder [.py].
-4. Imagen con los parámetros del controlador.
-5. Imágenes de las simulaciones [.pdf y .png].
-6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
+1. Cuaderno computacional de MATLAB [.mlx]. [1]
+2. Modelo de Simulink [.slx]. [1]
+3. Archivos de Spyder [.py]. [1]
+4. Imagen con los parámetros del controlador. [1]
+5. Imágenes de las simulaciones [.pdf y .png]. []
+6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario. [1]
 
 ## Referencias
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
