@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Sofía Cristina Durán Muñoz \[22211752]; l22211752@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
